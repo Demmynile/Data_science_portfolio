@@ -434,18 +434,18 @@ const certifications = {
       color_code: "#000000",
     },
 
-    {
-      title: "Google Analytics Individual Qualification",
-      subtitle: "Google",
-      logo_path: "python-01.png",
-      certificate_link: "",
-      alt_name: "Google",
-      color_code: "#000000",
-    },
+    // {
+    //   title: "Google Analytics Individual Qualification",
+    //   subtitle: "Google",
+    //   logo_path: "google.jpeg",
+    //   certificate_link: "",
+    //   alt_name: "Google",
+    //   color_code: "#000000",
+    // },
     {
       title: "Google Data Studio",
       subtitle: "Google",
-      logo_path: "python-01.png",
+      logo_path: "google.jpeg",
       certificate_link:
         "https://drive.google.com/open?id=1rLQEZvviVCO5BXvfTqiXyQJoJpdRfFnp",
       alt_name: "google",
@@ -454,7 +454,7 @@ const certifications = {
     {
       title: "International Development Graduate Internship",
       subtitle: "Dataville",
-      logo_path: "python-01.png",
+      logo_path: "dataville.webp",
       certificate_link:
         "https://drive.google.com/file/d/1rA-_S1d2AQOKB4LrkqJpSrKxuICn5FkX/view?usp=sharing",
       alt_name: "Dataville",
@@ -496,12 +496,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  {
-    name: "Gmail",
-    link: "balogun80@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  },
+  // {
+  //   name: "Gmail",
+  //   link: "balogun80@gmail.com",
+  //   fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
+  //   backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+  // },
   {
     name: "Instagram",
     link: "https://www.instagram.com/demmynile/",
