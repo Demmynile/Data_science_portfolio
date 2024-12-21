@@ -197,7 +197,7 @@ const skills = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "This software engineering project focuses on the comprehensive lifecycle of web application development and deployment, leveraging the latest technology tools and cloud infrastructure. The objective is to create robust, scalable, and efficient web applications that offer seamless user experiences and can be efficiently managed and maintained.",
 };
 
 //project cards
@@ -205,26 +205,25 @@ const projectsHeader = {
 const projectcards = {
   list: [
     {
-      title: "Image Classification Project with CNN",
-      img_path: "image_classifier.png",
+      title: "Lagos State Examination Payment Platform",
+      img_path: "examboard.png",
       description:
-        "Develop a CNN model that will identify the species of a flower from a photograph.",
+        "Lagos State provides an online examination payment platform to facilitate the payment of fees for various examinations conducted within the state.",
       tags: [
         {
-          lang: "python",
+          lang: "Javascript",
           color: "#004782",
         },
         {
-          lang: "TextBlob",
+          lang: "TailwindCss",
           color: "#820032",
         },
         {
-          lang: "Tensorflow",
+          lang: "React",
           color: "#00a100",
         },
       ],
-      // link: "https://teath.herokuapp.com ",
-      code: "https://github.com/Demmynile/Image-Classification",
+      link: "https://pay.examboard.com.ng/",
       linkcolor: "white",
     },
     {
@@ -259,10 +258,10 @@ const projectcards = {
       linkcolor: "white",
     },
     {
-      title: "Erin Sweet Treats Ecommerce Application",
-      img_path: "erin's.png",
+      title: "PeopleStore MultiVendor Ecommerce Platform",
+      img_path: "peoplestore.png",
       description:
-        "Created a very user friendly ecommerce application with the use of amazing stacks",
+        "PeopleStore aims to revolutionize the online shopping experience by providing a robust platform that benefits both vendors and customers, ensuring a smooth, secure, and enjoyable eCommerce journey for all users.",
       tags: [
         {
           lang: "ReactJS",
@@ -277,15 +276,15 @@ const projectcards = {
           color: "#00a100",
         },
       ],
-      link: "https://www.ecomass.store",
-      code: "https://github.com/Demmynile/erin-sweets-frontend",
+      link: "https://www.peoplesstore.ng/",
+      // code: "https://github.com/Demmynile/erin-sweets-frontend",
       linkcolor: "white",
     },
     {
-      title: "Pepsi Website Unique Clone done with raw css",
-      img_path: "pepsi.png",
+      title: "CampusRunz Agent Delivery Application",
+      img_path: "campusrunz.png",
       description:
-        "A Pepsi clone with the use of raw css for transitions , animations with an amazing layout",
+        "CampusRunz Agent Delivery Application is a mobile and web-based platform designed to streamline and facilitate delivery services within a campus environment. This application connects students, faculty, and other campus residents with delivery agents, ensuring efficient and timely delivery of various items such as food, packages, documents, and other goods.",
       tags: [
         {
           lang: "ReactJS",
@@ -300,8 +299,8 @@ const projectcards = {
           color: "#00a100",
         },
       ],
-      link: "https://react-pepsi-clone.vercel.app/",
-      code: "https://github.com/Demmynile/react-pepsi-clone",
+      link: "https://veloceety.com/",
+      // code: "https://github.com/Demmynile/react-pepsi-clone",
       linkcolor: "white",
     },
     {
