@@ -227,10 +227,10 @@ const projectcards = {
       linkcolor: "white",
     },
     {
-      title: "Car Price Prediction",
-      img_path: "neural.gif",
+      title: "PDFAI",
+      img_path: "pdfai.png",
       description:
-        "Explore how supervised learning models can be used to predict the price of a second hand car.",
+        "PDFAI is an advanced AI-powered tool designed to facilitate efficient communication with PDF documents, enabling users to gain a deeper understanding and better context of the information contained within these files. Leveraging cutting-edge artificial intelligence technologies, PDFAI transforms how users interact with and extract valuable insights from PDF documents.",
       tags: [
         {
           lang: "python",
