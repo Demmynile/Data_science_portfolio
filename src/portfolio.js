@@ -228,7 +228,7 @@ const projectcards = {
     },
     {
       title: "PDFAI",
-      img_path: "lottery.png",
+      img_path: "pdf_ai.png",
       description:
         "PDFAI is an advanced AI-powered tool designed to facilitate efficient communication with PDF documents, enabling users to gain a deeper understanding and better context of the information contained within these files. Leveraging cutting-edge artificial intelligence technologies, PDFAI transforms how users interact with and extract valuable insights from PDF documents.",
       tags: [
@@ -236,20 +236,25 @@ const projectcards = {
           lang: "python",
           color: "#004782",
         },
-        {
-          lang: "numpy",
-          color: "#8700b0",
-        },
-        {
-          lang: "matplotlib",
-          color: "#c47206",
-        },
+
         {
           lang: "Tensorflow",
           color: "#ff4b4b",
         },
         {
-          lang: "Scikit-Learn",
+          lang: "langchain",
+          color: "#3c0095",
+        },
+        {
+          lang: "Typescript",
+          color: "#3c0095",
+        },
+        {
+          lang: "Nextjs",
+          color: "#3c0095",
+        },
+        {
+          lang: "Tailwindcss",
           color: "#3c0095",
         },
       ],
