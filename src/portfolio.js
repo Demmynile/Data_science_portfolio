@@ -304,10 +304,10 @@ const projectcards = {
       linkcolor: "white",
     },
     {
-      title: "Lottery Web3 Application",
-      img_path: "lottery.png",
+      title: "Document AI Application",
+      img_path: "pdfai.png",
       description:
-        "Lottery Web3 application revolutionizes gaming by leveraging blockchain technology for transparent, secure, and decentralized lotteries",
+        "PDFAI is an advanced AI-powered tool designed to facilitate efficient communication with PDF documents, enabling users to gain a deeper understanding and better context of the information contained within these files. Leveraging cutting-edge artificial intelligence technologies, PDFAI transforms how users interact with and extract valuable insights from PDF documents.",
       tags: [
         {
           lang: "ReactJS",
@@ -326,8 +326,8 @@ const projectcards = {
           color: "#00a100",
         },
       ],
-      link: "https://lottery-web3-ten.vercel.app/",
-      code: "https://github.com/Demmynile/lottery-web3",
+      link: "https://chatllm-9416bf6tg-demmyniles-projects.vercel.app/",
+      code: "https://github.com/Demmynile/chatLLM",
       linkcolor: "white",
     },
   ],
