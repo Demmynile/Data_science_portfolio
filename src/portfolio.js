@@ -253,8 +253,8 @@ const projectcards = {
           color: "#3c0095",
         },
       ],
-      // link: "https://neuralviz.herokuapp.com/",
-      code: "https://github.com/Demmynile/Car-price-prediction",
+      link: "https://chatllm-sigma.vercel.app/",
+      code: "https://github.com/Demmynile/chatLLM",
       linkcolor: "white",
     },
     {
