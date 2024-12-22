@@ -305,7 +305,7 @@ const projectcards = {
     },
     {
       title: "PDFAI",
-      img_path: "PDFAI.png",
+      img_path: "pdfai.png",
       description:
         "PDFAI is an advanced AI-powered tool designed to facilitate efficient communication with PDF documents, enabling users to gain a deeper understanding and better context of the information contained within these files. Leveraging cutting-edge artificial intelligence technologies, PDFAI transforms how users interact with and extract valuable insights from PDF documents.",
       tags: [
@@ -326,8 +326,8 @@ const projectcards = {
           color: "#00a100",
         },
       ],
-      link: "https://chatllm-9416bf6tg-demmyniles-projects.vercel.app/",
-      code: "https://github.com/Demmynile/chatLLM",
+      link: "https://lottery-web3-ten.vercel.app/",
+      code: "https://github.com/Demmynile/lottery-web3",
       linkcolor: "white",
     },
   ],
