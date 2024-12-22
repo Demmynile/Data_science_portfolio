@@ -303,32 +303,6 @@ const projectcards = {
       // code: "https://github.com/Demmynile/react-pepsi-clone",
       linkcolor: "white",
     },
-    {
-      title: "Document AI Application",
-      img_path: "pdfai.png",
-      description: "",
-      tags: [
-        {
-          lang: "ReactJS",
-          color: "#004782",
-        },
-        {
-          lang: "Nextjs",
-          color: "#820032",
-        },
-        {
-          lang: "Typescript",
-          color: "#820032",
-        },
-        {
-          lang: "Tailwindcss",
-          color: "#00a100",
-        },
-      ],
-      link: "https://chatllm-9416bf6tg-demmyniles-projects.vercel.app/",
-      code: "https://github.com/Demmynile/chatLLM",
-      linkcolor: "white",
-    },
   ],
 };
 
